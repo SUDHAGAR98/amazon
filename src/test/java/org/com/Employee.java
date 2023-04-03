@@ -10,6 +10,14 @@ public class Employee {
 	private void method3() {
 	     System.out.println("Bharathi");
 		}
+	
+	
+	private void method4() {
+	     System.out.println("siva");
+		}
+	private void method5() {
+	     System.out.println("siva");
+		}
 
 	
 	
